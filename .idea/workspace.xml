@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3c68967-f953-4f9f-9323-5042563e85eb" name="Changes" comment="[Update] Ignored property file on VCS">
-      <change afterPath="$PROJECT_DIR$/logger.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dipak/logger/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dipak/logger/Logger.java" afterDir="false" />
-    </list>
+    <list default="true" id="d3c68967-f953-4f9f-9323-5042563e85eb" name="Changes" comment="[Update] App.java test code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +111,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649997114042</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[Update] Property file reading complete">
+      <created>1649998203539</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1649998203539</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[Update] App.java test code">
+      <created>1649998245485</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1649998245485</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +144,8 @@
     <MESSAGE value="[Update] general cleanup" />
     <MESSAGE value="[Added] Properties.java model" />
     <MESSAGE value="[Update] Ignored property file on VCS" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Update] Ignored property file on VCS" />
+    <MESSAGE value="[Update] Property file reading complete" />
+    <MESSAGE value="[Update] App.java test code" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Update] App.java test code" />
   </component>
 </project>
